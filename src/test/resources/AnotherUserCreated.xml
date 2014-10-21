@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <USER ID="1" ROLE_ID="1" LOGIN="user" PASSWORD="user" EMAIL="user@gmail.com"
+          FIRST_NAME="Ivan" LAST_NAME="Ivanov" BIRTHDAY="1980-01-01" />
+    <USER ID="2" ROLE_ID="2" LOGIN="admin" PASSWORD="admin"
+          EMAIL="admin@gmail.com" FIRST_NAME="Alexander" LAST_NAME="Alexandrov"
+          BIRTHDAY="1970-06-06" />
+    <USER ID="3" ROLE_ID="3" LOGIN="moderator" PASSWORD="moderator" EMAIL="moderator@gmail.com"
+          FIRST_NAME="Maxim" LAST_NAME="Mirniy" BIRTHDAY="1980-10-20" />
+    <USER ID="4" ROLE_ID="1" LOGIN="usernew" PASSWORD="usernew" EMAIL="new_user@gmail.com"
+          FIRST_NAME="Nikolay" LAST_NAME="Novak" BIRTHDAY="1990-10-20" />
+</dataset>
